@@ -2,16 +2,12 @@
 
 ## First Contribution
 
-- Are you new to open source project?
-- Do you want to make open source contribution?
-- Can't find a beginner's project to contribute
+- Are you new to open source?
+- Do you want to start contributing on projects?
+- Can't find a beginner's project to contribute.
 
-Don't worry you are at perfect place. This is simple project you just have to add yourself as contributor by adding your name in `contributors.json` file. Still can't get it don't worry below is step by step guide to help you make your first contribution.
+You are at the rightt place, to start your journey in world of open source projects. This is simple project you just have to add yourself as contributor by adding your name in `contribution.json` file. Still can't get it don't worry below is step by step guide to help you make your first contribution.
 ## How to contribute
-
-  
-
-Through this you will learn about contributing to open source projects by making your first contribution.
 
 ## Just for the instruction!
 
@@ -121,4 +117,4 @@ Make sure name of branch is same as you created in `step 3`
 
 Once you push your code to GitHub, now it's time to create your `pull request`, you will go to the repository click on `compare and pull request` and submit the pull request.
 
-
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
