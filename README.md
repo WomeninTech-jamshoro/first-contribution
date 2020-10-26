@@ -1,4 +1,4 @@
-<h2 style="text-align: center;"> <a https://womenintech-jamshoro.herokuapp.com/" target="_blank">MLSA WomeninTech-Jamshoro Contributors</a></h2>
+[MLSA WomeninTech-Jamshoro  Contributors](https://womenintech-jamshoro.herokuapp.com/)
 
 ### Welcome to WomeninTech Contribution
 
