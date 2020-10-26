@@ -6,7 +6,7 @@
 - Do you want to start contributing on projects?
 - Can't find a beginner's project to contribute.
 
-You are at the rightt place, to start your journey in world of open source projects. This is simple project you just have to add yourself as contributor by adding your name in `contribution.json` file. Still can't get it don't worry below is step by step guide to help you make your first contribution.
+You are at the right place, to start your journey in world of open source projects. This is simple project you just have to add yourself as contributor by adding your name in `contribution.json` file. Still can't get it don't worry below is step by step guide to help you make your first contribution.
 ## How to contribute
 
 ## Just for the instruction!
